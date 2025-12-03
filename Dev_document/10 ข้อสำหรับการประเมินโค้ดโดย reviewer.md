@@ -1,6 +1,6 @@
 <img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
-# เกณฑ์สำคัญ 10 ข้อสำหรับการประเมินโค้ดโดย reviewer
+# คู่มือ  Code Review Criteria
+### เกณฑ์สำคัญ 10 ข้อสำหรับการประเมินโค้ดโดย reviewer
 
 **เกณฑ์สำคัญ 10 ข้อสำหรับการประเมินโค้ด (Code Review Criteria)**
 เพื่อช่วยให้ Reviewer ตรวจงานได้อย่างมีทิศทาง ลดความขัดแย้ง และยกระดับคุณภาพซอฟต์แวร์ นี่คือ Checklist 10 ข้อที่ครอบคลุมทั้ง Functionality, Quality และ Testing ครับ:

@@ -1,7 +1,4 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
-
-# การพัฒนาระบบ REST API ด้วย Java Spring Boot  Microservices Ready หรือ Scalable Monolith
+๒ สารยงารร ด้าน ณธ
 
 1.JWT
 2.validator

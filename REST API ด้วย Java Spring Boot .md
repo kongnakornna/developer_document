@@ -1,8 +1,17 @@
 <img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
 
+ออก แบบ REST API ด้วย Java Spring Boot แบบ Microservices
+CRUD  + ORM  +JWT + MVC 
+ความต้องการ
 
-# การพัฒนาระบบ REST API ด้วย Java Spring Boot  Microservices Ready หรือ Scalable Monolith
+1.ระบบ User
+2.ระบบ สินค้า
+3.ระบบ คลังสินค้า
+4.ระบบขนส่ง
+5.ระบบรายงาน
+6.ระบบ ประวัจิดกาใช้งานระบบ
 
+ระบบที่ นำมาใช้
 1.JWT
 2.validator
 3.ORM
@@ -20,6 +29,15 @@
 16.Docker Compose
 17.Jenkins (Infrastructure)
 18.cloud AWS EC2 ,S3 deploy application
+
+1.สร้างเอกสาร
+2.สร้าง Template code
+3.ออกแบบ Data flow
+4.ออกแบบ Work flow
+5.ออกแบบ Template รายงาน 
+
+ส่งออก แบบ เอกสาร Markdown  .md
+
 
 การพัฒนาระบบ REST API ด้วย Java Spring Boot ให้รองรับ **Microservices Ready** หรือ **Scalable Monolith** เป็นแนวทางที่เหมาะสมที่สุดในปัจจุบัน (2025) เพราะช่วยให้เริ่มต้นได้เร็วแบบ Monolith แต่โครงสร้างภายในถูกจัดระเบียบให้พร้อมแยกเป็น Microservices ได้ทันทีเมื่อระบบโตขึ้น
 

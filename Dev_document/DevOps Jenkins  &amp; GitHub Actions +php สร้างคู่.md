@@ -1,5 +1,5 @@
  
-# DevOps Jenkins  \& GitHub Actions +php สร้างคู่มือ แบบละเอียด Step by step
+# DevOps Jenkins  & GitHub Actions +php สร้างคู่มือ แบบละเอียด Step by step
 
 เริ่มต้นทำ CI/CD ของ PHP ด้วย Jenkins และ GitHub Actions ทำได้โดยเตรียมโปรเจกต์ PHP ให้รองรับการรันทดสอบ แล้วค่อยตั้งค่า Pipeline บน Jenkins และ Workflow บน GitHub Actions ให้ทำงานอัตโนมัติเมื่อมีการ push โค้ดขึ้น GitHub. ด้านล่างเป็นคู่มือแบบ Step by step แยกเป็น 2 ส่วน: Jenkins และ GitHub Actions สำหรับโปรเจกต์ PHP ทั่วไป (เช่น Laravel หรือ PHP ธรรมดา).[^1][^2][^3][^4][^5][^6]
 
